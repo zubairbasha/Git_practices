@@ -1,0 +1,9 @@
+What is git?
+It is a version control System.
+It is used to help for tracking the code changes.
+Initializing the git in a folder, it is taking as a repository.
+There will be .git folder where all changes are stored in the folder.
+You can stage the modified files.
+What is github?
+It is a platform where can practice the source code.
+It is owned by microsoft corporation.
